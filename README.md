@@ -1,4 +1,4 @@
-= # Airtable .NET API Client
+.= # Airtable .NET API Client
 
 Airtable.net is the C-Sharp client of the public APIs of Airtable. It builds a Windows class library that targets .NET Standard named AirtableClientApi.dll.
 AirtableClientApi.dll facilitates the usage of Airtable APIs without having to worry about interfacing with raw HTTP,
@@ -131,4 +131,5 @@ readonly string appKey = YOUR_APP_KEY_OR_ACCESS_TOKEN;
 # Documentation
 
 [View the full documentation](https://github.com/ngocnicholas/airtable.net/wiki/Documentation)
-Created by Jason Heise  https://w  https://www.behance.net
+Created by Jason Heise  
+Owned by Jason Heise heisejason-png Giters
